@@ -1,0 +1,23 @@
+ .gold {
+    color: gold;
+    }
+ .maroon-bg {
+    background-color:maroon;
+    }
+ .space {
+    text-align: center;
+    }
+.lightgrey {
+    background-color: lightgrey;
+}
+
+main {
+    background-color: lightgrey;
+    padding: 1em;
+}
+body {
+    background-image:url(record.png);
+    background-repeat:repeat;
+    margin: 0;
+
+}
